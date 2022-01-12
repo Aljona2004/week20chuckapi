@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IvP7xJq+aqsCJU/G9h29ryIDjbR7kYsDhMBEi1WZ1XhwznteiDMbsZ0n9gWSYqlUWO7YoaaQeazW50gAoWzUCQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\opilane\\source\\repos\\LOGITpe21\\Chuck API\\Chuck API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\opilane\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
